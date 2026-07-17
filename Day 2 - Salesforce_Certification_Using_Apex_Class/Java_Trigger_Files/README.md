@@ -1,4 +1,4 @@
-# Apex Triggers (Java_Trigger_Files)
+# Java Trigger Files
 
 This folder contains a set of Salesforce Apex **trigger** examples.
 

@@ -1,4 +1,4 @@
-# Salesforce Apex Classes (Java_Class_Files)
+# Java Class Files
 
 This folder contains a collection of small, self-contained Apex examples (handlers, controllers/services, async jobs, batch/schedulable work, and callout stubs) along with their corresponding test classes.
 
